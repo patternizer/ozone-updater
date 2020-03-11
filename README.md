@@ -1,4 +1,4 @@
-# chimere-tools
+# ozone-updater
 
 MATLAB code written while working on ESA Ozone_CCI and EUMETSAT AC SAF tasks at 
 LAP-AUTh to download, read, parse and write operational data from the 
